@@ -1,2 +1,2 @@
-# Conversor-
+# Conversor
 conversor de temperatura
