@@ -1,5 +1,5 @@
 
-## Conversão de Graus Fahrenheit para Celsius
+## Conversão de temperatura
 
 f = float(input('digite a temperatura em Fahrenheit:'))
 
