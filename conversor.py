@@ -6,4 +6,4 @@ print(f'O graus fahrenheit convertida para graus Celsius:{c:.2f}')
 
 
 # f = Fahrenheit
-# C = Celsius
+# c = Celsius
